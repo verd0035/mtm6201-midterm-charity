@@ -1,6 +1,9 @@
 # MTM6201 Midterm - Charity Website Prototypes
 Prototype Designs for a Charity Website - Midterm Resources for Students without Design Foundations I designs
 
+## Prototype File
+In the prototype-designs folder, there is a file called '**charity-website.sketch**'. This is actually an **Adobe Xd** file, just double click it and it should open in Xd.
+
 ## Author
 **Name:** Kishore  
 **Attribution Link:** (https://dribbble.com/shots/5702327-Charity-Non-Profit-App-Freebie-Day-348-365-Project365)  
